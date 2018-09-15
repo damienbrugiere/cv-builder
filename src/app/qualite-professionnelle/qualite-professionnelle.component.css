@@ -1,0 +1,14 @@
+.white{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: blue;
+    display: inline-block;
+}
+.plain{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
